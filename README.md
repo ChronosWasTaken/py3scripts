@@ -3,6 +3,10 @@ collection of kind of useful python3 scripts
 
 ## urban.py
 
+Short description:
+
+Look something up on urbandictionary. Currently it only returns 2 definitions, I don't see why would you need more.
+
 Requirements: 
 
 - None.
@@ -10,6 +14,10 @@ Requirements:
 Usage: `./urban.py <word to look up, must enclose in quotes>`
 
 ## fetchreddit.py
+
+Short description:
+
+Fetch original url from reddit post (redd.it links). 
 
 Requirements:
 
@@ -19,12 +27,20 @@ Must [set up PRAW.ini](https://praw.readthedocs.io/en/v3.6.2/pages/configuration
 
 Usage: `./fetchreddit.py <reddit id of the post>`
 
+by reddit id I mean [this](https://puu.sh/AlEun/157c7ee5f1.png)
+
 ## youtube-dl.py
+
+Short description:
+
+You can use this script to look up something on youtube and automatically download it as an mp3 via youtube-dl.
 
 Requirements:
 
 - youtube-dl (install with your preferred package manager, examples below)
 - inquirer (install with pip, `pip3 install inquirer`)
+
+Usage: `./youtube-dl.py <something to look up>`
 
 ### Arch Linux, Antergos:
 ```
