@@ -44,17 +44,17 @@ Usage: `./youtube-dl.py <something to look up, must enclose in quotes>`
 
 ### Arch Linux, Antergos:
 ```
-pacman -S youtube-dl
+# pacman -S youtube-dl
 ```
 
 ### Debian, Ubuntu, Linux Mint, Elementary OS, etc:
 ```
-sudo apt-get install youtube-dl
+# apt-get install youtube-dl
 ```
 
 ### Mac OS X, OSX
 ```
-brew install youtube-dl
+$ brew install youtube-dl
 ```
 
 etc.
