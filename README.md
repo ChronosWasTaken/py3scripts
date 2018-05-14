@@ -40,7 +40,7 @@ Requirements:
 - youtube-dl (install with your preferred package manager, examples below)
 - inquirer (install with pip, `pip3 install inquirer`)
 
-Usage: `./youtube-dl.py <something to look up>`
+Usage: `./youtube-dl.py <something to look up, must enclose in quotes>`
 
 ### Arch Linux, Antergos:
 ```
