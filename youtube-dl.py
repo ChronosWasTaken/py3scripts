@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/usr/bin/python3
 #Chronos, 2018
 #TODO: let the user see a preview of each video, automatically detect when a url is passed as argument and skip to downloading it, maybe make a GUI?
 import urllib.request, urllib.parse, sys, inquirer
