@@ -37,6 +37,7 @@ You can use this script to look up something on youtube and automatically downlo
 
 Requirements:
 
+- BeautifulSoup4 (install with pip, `pip3 install beautifulsoup4`)
 - youtube-dl (install with your preferred package manager, examples below)
 - inquirer (install with pip, `pip3 install inquirer`)
 
