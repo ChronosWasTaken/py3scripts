@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/usr/bin/python3
 #Chronos, 2018
 import praw, sys
 from subprocess import Popen,PIPE
