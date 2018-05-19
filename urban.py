@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/usr/bin/python3
 #Chronos, 2018.
 #TODO: use fancier colors, add as prefix the votes of each definition
 import sys, urllib.request, json
