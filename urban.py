@@ -5,6 +5,9 @@ import sys, urllib.request, json
 
 if len(sys.argv) == 2:
     word = sys.argv[1]
+elif len(sys.argv) > 2:
+    print('must enclose in quote symbols')
+    exit()
 else:
     word = input('word to look up? ')
  
