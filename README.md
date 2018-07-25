@@ -38,24 +38,24 @@ You can use this script to look up something on youtube and automatically downlo
 Requirements:
 
 - BeautifulSoup4 (install with pip, `pip3 install beautifulsoup4`)
-- youtube-dl (install with your preferred package manager, examples below)
+- youtube-dl & ffmpeg (install with your preferred package manager, examples below)
 - inquirer (install with pip, `pip3 install inquirer`)
 
 Usage: `./youtube-dl.py <something to look up, must enclose in quotes>`
 
 ### Arch Linux, Antergos:
 ```
-# pacman -S youtube-dl
+# pacman -S youtube-dl ffmpeg
 ```
 
 ### Debian, Ubuntu, Linux Mint, Elementary OS, etc:
 ```
-# apt-get install youtube-dl
+# apt-get install youtube-dl ffmpeg
 ```
 
 ### Mac OS X, OSX
 ```
-$ brew install youtube-dl
+$ brew install youtube-dl ffmpeg
 ```
 
 etc.
