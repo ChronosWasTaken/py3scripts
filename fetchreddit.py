@@ -16,4 +16,4 @@ p2.wait()
 if p2.returncode == 0:
     print("copied url to clipboard.")
 else:
-    print(p2.returncode)
+    print(submission.url)
