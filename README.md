@@ -1,6 +1,16 @@
 # python3snippets
 collection of kind of useful python3 scripts 
 
+## sporecast-downloader.py
+
+download a sporecast from the sporepedia, has a nice logging system and all built in
+
+reqs:
+
+- Requests (`pip3 install requests`)
+
+Usage: You can either pass the sporecast url to the program via arguments or execute it as-is and wait till asked
+
 ## urban.py
 
 Short description:
